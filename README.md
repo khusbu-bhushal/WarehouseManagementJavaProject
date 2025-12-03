@@ -12,6 +12,7 @@
 - Developed the `WishListMenuState` on top of the WishList backend.
 - Implemented the `ManagerMenuState` logic and menu flow.
 - Refined and reorganized class designs for consistency and clarity.
+- Ensured OOP principles and LSP consistency.
 - Improved the logic, reliability, and flow of state transitions within the FSM.
 
-
+The test flow is outlined in testprocedure.txt to ensure that the program runs successfully. 
