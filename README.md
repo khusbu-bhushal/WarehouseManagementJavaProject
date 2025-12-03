@@ -4,7 +4,7 @@
   
 - Developed collaboratively as part of a four-person team.
 
-- Technologies Used: Java, OOP, UML, State Design Pattern, Finite State Machine (FSM)
+- Technologies Used: Java, OOP, UML, State Design Pattern, Finite State Machine (FSM), SOLID Principles.
 
 ### 👩‍💻 My Contributions
 
