@@ -1,0 +1,29 @@
+Create five clients: C1 through C5
+Print/display all clients (should show the credit/debit balance for each)
+Create five products: P1 through P5, with quantities 10, 20, 30, 40, 50 respectively and unit
+prices $1, $2, $3, $4, $5 respectively.
+Print/display all products (should show price and qty for each)
+Add to C1’s wishlist: 5 each of P1, P3 and P5
+Print C1’s wishlist
+Add to C2’s wishlist: 7 each of P1, P2 and P4
+Print C2’s wishlist
+Add to C3’s wishlist: 6 each of P1, P2 and P5
+Print C3’s wishlist
+Place order for C2, buy everything (if available) in wishlist
+Print/display all clients (should show the credit/debit balance for each)
+Place order for C3, buy everything (if available) in wishlist
+Print/display all clients (should show the credit/debit balance for each)
+Print C2’s wishlist
+Print C3’s wishlist
+Print P1’s waitlist (for full version of program)
+Print P2’s waitlist (for full version of program)
+Place order for C1, buy everything (if available) in wishlist
+Print/display all clients (should show the credit/debit balance for each)
+Print C1’s wishlist
+Record receipt $100 payment for C1 and C2.
+Print/display all clients (should show the credit/debit balance for each)
+Receive a shipment of 100 items of P1.
+Print/display all products (should show price and qty for each)
+Print/display all clients (should show the credit/debit balance for each)
+Print all invoices for C1
+Print all invoices for C2
