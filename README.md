@@ -37,6 +37,6 @@ How to Run
   git clone https://github.com/khusbu-bhushal/WarehouseManagementJavaProject/tree/main
 
 - Open the project in any Java-supported IDE (IntelliJ, Eclipse, VS Code with Java extensions).
-
-- Run WarehouseContext.java or GUIStyle.java to launch the system.
+- Compile all the files using javac *.java
+- Now, run WarehouseContext.java to run the program.
 If running outside an IDE, ensure Java 8+ is installed.
