@@ -17,7 +17,7 @@
 
 The test flow is outlined in testprocedure.txt to ensure that the program runs successfully. 
 
-This project was originally developed and executed in GitHub Codespaces using professor-provided instructions to enable GUI support. Codespaces does not provide GUI functionality by default, so specific setup steps were required in the class environment.
+This project was originally developed and executed in GitHub Codespaces using instructions provided in the class to enable GUI support. Codespaces does not provide GUI functionality by default, so specific additional setup steps were required to run the program.
 
 The full setup included:
 
