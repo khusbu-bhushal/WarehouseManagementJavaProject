@@ -29,3 +29,14 @@ The full setup included:
 
 These steps were part of the course environment and are not included in this public repository, since the project can still be reviewed through its Java source code, architecture, and state machine implementation.
 If you wish to run the GUI locally, you can clone the repository and run the Java files using any standard Java-supported IDE (IntelliJ, VS Code with Java extensions, or Eclipse).
+
+How to Run
+
+- Clone the repository:
+
+  git clone https://github.com/your-repo/WarehouseManagementJavaProject.git
+
+- Open the project in any Java-supported IDE (IntelliJ, Eclipse, VS Code with Java extensions).
+
+- Run WarehouseContext.java or GUIStyle.java to launch the system.
+If running outside an IDE, ensure Java 8+ is installed.
