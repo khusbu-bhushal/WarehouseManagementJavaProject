@@ -34,7 +34,7 @@ How to Run
 
 - Clone the repository:
 
-  git clone https://github.com/your-repo/WarehouseManagementJavaProject.git
+  git clone https://github.com/khusbu-bhushal/WarehouseManagementJavaProject/tree/main
 
 - Open the project in any Java-supported IDE (IntelliJ, Eclipse, VS Code with Java extensions).
 
