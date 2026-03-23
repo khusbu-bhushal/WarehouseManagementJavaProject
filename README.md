@@ -30,7 +30,7 @@ The full setup included:
 These steps were part of the course environment and are not included in this public repository, since the project can still be reviewed through its Java source code, architecture, and state machine implementation.
 If you wish to run the GUI locally, you can clone the repository and run the Java files using any standard Java-supported IDE (IntelliJ, VS Code with Java extensions, or Eclipse).
 
-How to Run
+### How to Run
 
 - Clone the repository:
 
